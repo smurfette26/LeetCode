@@ -35,4 +35,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2427-first-letter-to-appear-twice](https://github.com/smurfette26/LeetCode/tree/master/2427-first-letter-to-appear-twice) |
+## Math
+|  |
+| ------- |
+| [0007-reverse-integer](https://github.com/smurfette26/LeetCode/tree/master/0007-reverse-integer) |
 <!---LeetCode Topics End-->
