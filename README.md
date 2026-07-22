@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/smurfette26/LeetCode/tree/master/0010-regular-expression-matching) |
 | [0151-reverse-words-in-a-string](https://github.com/smurfette26/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [2427-first-letter-to-appear-twice](https://github.com/smurfette26/LeetCode/tree/master/2427-first-letter-to-appear-twice) |
 ## Bit Manipulation
@@ -40,4 +41,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/smurfette26/LeetCode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/smurfette26/LeetCode/tree/master/0009-palindrome-number) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0010-regular-expression-matching](https://github.com/smurfette26/LeetCode/tree/master/0010-regular-expression-matching) |
+## Recursion
+|  |
+| ------- |
+| [0010-regular-expression-matching](https://github.com/smurfette26/LeetCode/tree/master/0010-regular-expression-matching) |
 <!---LeetCode Topics End-->
